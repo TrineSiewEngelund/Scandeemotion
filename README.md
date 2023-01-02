@@ -2,7 +2,7 @@
 
 ### A Fine-tuned BERT for Emotion Analysis in Scandinavin
 
-This repository contains the code for my Free Topic on fine-tuning a BERT for Emotion Analysis for the three Scandinavian languages, Danish, Norwegian, and Swedish.
+This repository contains the code for my Free Topic on fine-tuning a BERT for Emotion Analysis in the three Scandinavian languages, Danish, Norwegian, and Swedish.
 
 In the Google Colab notebook *Scandeemotion.ipynb*, you will find the code.
 
